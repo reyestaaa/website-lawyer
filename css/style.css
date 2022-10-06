@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&family=IBM+Plex+Serif:wght@400;700&display=swap');
+
+/* font-family: 'Hurricane', cursive;
+font-family: 'IBM Plex Serif', serif; */
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.cons{
+    color: #EBA05B;
+}
+
+.font1{
+    font-family: 'Hurricane', cursive;
+    font-size: 6rem;
+}
+.nav-top{
+    background-color: #0c0b0b;
+}
+#service{
+    background-color: #0c0b0b;
+    color: white;
+}
+#client{
+    background-color: #0c0b0b;
+    margin-top: 40px;
+}
+.card-client{
+    background-color: #0c0b0b;
+}
+
+.text-nav{
+    color: #EBA05B;
+    text-decoration: none;
+    font-weight: 600;
+}
+.text-nav:hover{
+    color: #0c0b0b;
+    transition: 0.5s;
+}
+
+.bg-lawyer{
+    background: url('../images/lawyer.png');
+    background-repeat: no-repeat;
+    background-position: 40% 10%;
+    height: 120vh;
+}
+
+.yels{
+    color: #EBA05B;
+}
+
+.text-first{
+    margin-top: 300px;
+}
+
+#about{
+    background-color: #f3f3f3;
+}
+
+ul{
+    list-style: none;
+}
+li{
+    margin-bottom: 20px;
+}
+
+.icon-right{
+    border-right: 3px solid #EBA05B;
+}
+
+.star{
+    background: url('../images/star.png');
+}
+
+.under1{
+    text-decoration: 5px;
+    text-decoration-line: underline;
+    text-decoration-color: #EBA05B;
+}
+
+footer{
+    background: url('../images/star3.png');
+}
+
+.rate-score{
+    font-size: 6rem;
+    font-weight: bold;
+    color: #EBA05B;
+}
+
+.font-name{
+    color: #EBA05B;
+}
